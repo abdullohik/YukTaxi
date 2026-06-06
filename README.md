@@ -120,11 +120,6 @@ Brauzerda `http://localhost:5173` manzilini oching.
 
 ---
 
-## 👤 Muallif
-
-**Abdulloh Khabibullaev**  
-KBA Consulting Agency — Co-founder  
-Webster University Tashkent — Economics & IR
 
 ---
 
